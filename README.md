@@ -6,3 +6,6 @@ Este repositório guarda o site sobre paternidade que fiz para o meu professor.
 ## Elementos:
 - Estilização CSS;
 - Construção semântica;
+- Múltiplas páginas.
+
+>> Seja um bom papai.
